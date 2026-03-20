@@ -38,7 +38,7 @@ Interface administrativa responsiva desenvolvida com Bootstrap 5. O projeto simu
 
 ## 🚀 Demo
 
-Acesse: [LINK_DO_GITHUB_PAGES]
+Acesse: (https://brnponto9.github.io/projeto02-revisao-bootstrap/)
 
  
 
